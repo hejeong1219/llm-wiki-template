@@ -1,6 +1,6 @@
 # LLM Wiki — [YOUR FIELD]
 
-A personal knowledge base of [YOUR FIELD] papers, following [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285):
+A personal knowledge base of [YOUR FIELD] papers, following [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f):
 
 ```
 Original PDF → sources/*.md (LLM summary) → wiki/{category}/*.md (final page)
